@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Cube (0.0, 2.0, 0.0)",
+        "position": [
+            0.0,
+            2.0,
+            0.0
+        ],
+        "rotation": [
+            46.26984405517578,
+            52.88045120239258,
+            0.0
+        ],
+        "scale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "texture_path": "assets/img.png",
+        "model_path": null,
+        "type": "Cube",
+        "tag": "",
+        "id": "",
+        "set_active": true
+    },
+    {
+        "name": "Cylinder (3.0, 0.0, 0.0)",
+        "position": [
+            3.0,
+            0.0,
+            0.0
+        ],
+        "rotation": [
+            46.26984405517578,
+            52.88045120239258,
+            0.0
+        ],
+        "scale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "texture_path": "assets/img.png",
+        "model_path": null,
+        "type": "Cylinder",
+        "tag": "",
+        "id": "",
+        "set_active": true
+    },
+    {
+        "name": "Cylinder (-3.0, 0.0, 0.0)",
+        "position": [
+            -3.0,
+            0.0,
+            0.0
+        ],
+        "rotation": [
+            46.26984405517578,
+            52.88045120239258,
+            0.0
+        ],
+        "scale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "texture_path": "assets/img.png",
+        "model_path": null,
+        "type": "Cylinder",
+        "tag": "",
+        "id": "",
+        "set_active": true
+    }
+]

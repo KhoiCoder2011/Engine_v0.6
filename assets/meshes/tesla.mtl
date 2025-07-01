@@ -1,0 +1,582 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Carpet.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/leather1.PNG
+map_d C:/leather1.PNG
+
+newmtl Carpet_Light.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.141176 0.141176 0.141176
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl JUST_BLACK.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl LCDs.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/lcd.PNG
+map_Ke C:/lcd.PNG
+map_d C:/lcd.PNG
+
+newmtl Plastic.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl Putih.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/leather2.PNG
+map_d C:/leather2.PNG
+
+newmtl Seat_Leather_white.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/leather2.PNG
+map_d C:/leather2.PNG
+
+newmtl aluminium2.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/gray.PNG
+map_d C:/gray.PNG
+
+newmtl aluminium_light.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/gray.PNG
+map_d C:/gray.PNG
+
+newmtl back_chrome_light.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/gray1.PNG
+map_d C:/gray1.PNG
+
+newmtl belt.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/belt.PNG
+map_d C:/belt.PNG
+
+newmtl black_lights.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl breaklight_l
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl chassis.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl door_lf.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.074510 0.074510 0.074510
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl door_lf.5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.043137 0.043137 0.043137
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl dvorright.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl foglight_l
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl foglight_r
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl front_black.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl glass.0
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.359091 0.359091 0.359091
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 9
+map_Kd C:/kaca.PNG
+map_d C:/kaca.PNG
+
+newmtl glass.1
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.395455 0.395455 0.395455
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 9
+map_Kd C:/kaca2.PNG
+map_d C:/kaca2.PNG
+
+newmtl hitam.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl hub_rb.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/caliper.PNG
+map_d C:/caliper.PNG
+
+newmtl hub_rf.0
+Ns 893.884277
+Ka 1.000000 1.000000 1.000000
+Ks 0.390909 0.390909 0.390909
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/caliper.PNG
+map_d C:/caliper.PNG
+
+newmtl hub_rf.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/caliperbadge.PNG
+map_d C:/caliperbadge.PNG
+
+newmtl indicator_lf
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_Ke C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl indicator_lr
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl indicator_rf
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_Ke C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl indicator_rr
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl left_front_light
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_Ke C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl left_rear_light
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl light_night
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_Ke C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl light_pantulan.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/red3.PNG
+map_Ke C:/red3.PNG
+map_d C:/red3.PNG
+
+newmtl mirror_inside.0
+Ns 987.330750
+Ka 0.957855 0.957855 0.957855
+Kd 0.800000 0.800000 0.800000
+Ks 0.477361 0.477361 0.477361
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl movsteer_1.0.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/leather1.PNG
+map_d C:/leather1.PNG
+
+newmtl movsteer_1.0.1
+Ns 801.838806
+Ka 1.000000 1.000000 1.000000
+Ks 0.427273 0.427273 0.427273
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/gray.PNG
+map_d C:/gray.PNG
+
+newmtl pantulans.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/red2.PNG
+map_Ke C:/red2.PNG
+map_d C:/red2.PNG
+
+newmtl platnomor.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Admin/AppData/Local/Temp/Rar$DRa2680.45697.rartemp/source/tesla_car1.fbm/carpback.PNG
+
+newmtl platnomor.2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Admin/AppData/Local/Temp/Rar$DRa2680.45697.rartemp/source/tesla_car1.fbm/carplate.PNG
+
+newmtl primary
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.235294 1.000000 0.000000
+Ks 0.427273 0.427273 0.427273
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl primary.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/remap2.PNG
+map_d C:/remap2.PNG
+
+newmtl primary.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/remap3.PNG
+map_d C:/remap3.PNG
+
+newmtl primary.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.235294 1.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl revlight_L
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl right_front_light
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl right_rear_light
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 2
+map_Kd C:/vehiclelights.PNG
+map_Ke C:/vehiclelights.PNG
+map_d C:/vehiclelights.PNG
+
+newmtl satin_red.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/red2.PNG
+map_d C:/red2.PNG
+
+newmtl suspensi.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/gray1.PNG
+map_d C:/gray1.PNG
+
+newmtl suspensi.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/gray1.PNG
+map_d C:/gray1.PNG
+
+newmtl tembus_red.0
+Ns 729.946228
+Ka 1.000000 1.000000 1.000000
+Ks 0.504854 0.504854 0.504854
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 6
+map_Kd C:/tembus.PNG
+map_d C:/tembus.PNG
+
+newmtl texture_Buttons.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/button.PNG
+map_d C:/button.PNG
+
+newmtl wheels.0
+Ns 876.776855
+Ka 1.000000 1.000000 1.000000
+Ks 0.477273 0.477273 0.477273
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/gray.PNG
+map_d C:/gray.PNG
+
+newmtl wheels.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/black.PNG
+map_d C:/black.PNG
+
+newmtl wheels.2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/tyre.PNG
+map_d C:/tyre.PNG
+
+newmtl wheels.3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/tyre2.PNG
+map_d C:/tyre2.PNG
+
+newmtl wheels.4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/disc.PNG
+map_d C:/disc.PNG
+
+newmtl wheels.6
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.477273 0.477273 0.477273
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/rims.PNG
+map_d C:/rims.PNG
